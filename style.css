@@ -1,0 +1,24 @@
+#flex-container{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 300pt;
+}
+
+#zold{
+    background-color: green;
+    width: 100%;
+    height: 300pt;
+}
+
+#sarga{
+    background-color: gold;
+    width: 100%;
+    height: 300pt;
+}
+
+#lila{
+    background-color: purple;
+    width: 100%;
+    height: 300pt;
+}
